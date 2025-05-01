@@ -1,0 +1,15 @@
+numpy
+pandas
+requests
+json
+os
+dotenv
+sys
+nltk
+spacy
+html
+sentence_transformers
+ast
+re
+typing
+streamlit
